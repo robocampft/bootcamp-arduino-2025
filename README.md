@@ -28,5 +28,5 @@ O repositório está organizado da seguinte forma:
 
 ##  Equipe de Treinamento:
 
-Pedro Dos Santos Conceição - Diretor de Treinamento
-Pedro Evandro Martins 
+- Pedro Dos Santos Conceição - Diretor de Treinamento
+- Pedro Evandro Martins 
