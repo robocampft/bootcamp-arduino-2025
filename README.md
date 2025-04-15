@@ -1,6 +1,6 @@
 # Treinamento de Arduino Básico - Robocamp
 
-Bem-vindo ao repositório oficial do treinamento de Arduino básico ministrado pela [Nome da Liga de Robótica]. Este repositório contém todos os materiais, códigos-fonte, projetos e recursos utilizados durante o treinamento.
+Bem-vindo ao repositório oficial do treinamento de Arduino básico ministrado pela Liga de Robótica da Unicamp. Este repositório contém todos os materiais, códigos-fonte, projetos e recursos utilizados durante o treinamento.
 
 ## Objetivo
 
@@ -24,4 +24,4 @@ O repositório está organizado da seguinte forma:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/Curso-Arduino.git
+   git clone https://github.com/robocampft/bootcamp-arduino-2025.git
